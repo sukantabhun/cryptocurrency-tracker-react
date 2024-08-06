@@ -1,0 +1,9 @@
+.image {
+  width: 25px;
+  height: 25px;
+  margin-right: 15px;
+}
+.curr-details{
+    display: flex;
+    padding: 25px;
+}
